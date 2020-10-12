@@ -1,7 +1,6 @@
 package com.hoaxify.hoaxify.user;
 
 import com.hoaxify.hoaxify.shared.GenericResponse;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
